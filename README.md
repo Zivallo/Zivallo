@@ -2,14 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=150&section=header&text=Hello%20visitors!&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlign=75&width=Auto)
 
-<p>
- Thank you for visiting my git!  
- 
-I'm beginner developer Zivallo (Soowan Cho).  
-
-I am interested in the embedded system.  
-
-</p>
+```
+Thank you for visiting my git!
+I'm beginner developer Zivallo (Soowan Cho).
+I am interested in the embedded system.
+```
 
 <h2>Techs stack</h2>  
 
