@@ -16,7 +16,6 @@
 <h2>Github Stats</h2>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zivallo&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zivallo&layout=compact&theme=tokyonight)
-</div>
 
 <!---
 Zivallo/Zivallo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
