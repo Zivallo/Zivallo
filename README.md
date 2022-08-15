@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=200&section=header&text=Hello%20visitors!&fontColor=ffffff&fontSize=80&animation=twinkling&fontAlign=65)
 ## 안녕하세요! 조수완입니다. 
 
-<h2>🛠 Techs stack</h2>
-<h4>Tech that I've used at least once</h4>
+<h2>🛠 Techs stack</h2>  
+
+<h4>Tech that I've used at least once</h4>  
+
 <div align="center"><a href="" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></a><a href="" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"/></a><a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a><a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a><a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a><a href="" target="_blank"></div>
 
@@ -19,9 +21,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zivallo&show_icons=true&theme=tokyonight)   
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zivallo&layout=compact&theme=tokyonight)  
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZivallo&count_bg=%2345DABF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zivallo&layout=compact&theme=tokyonight)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZivallo&count_bg=%2345DABF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)  
 
 </div>
 
