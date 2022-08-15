@@ -10,11 +10,11 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a><a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a><a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a></div>
 
 <div align="center">  
----  
-## Problem Solving
+<h2>Problem Solving</h2>
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=edgeak)
-## Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zivallo&show_icons=true&theme=tokyonight) 
+
+<h2>Github Stats</h2>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zivallo&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zivallo&layout=compact&theme=tokyonight)
 </div>
 
