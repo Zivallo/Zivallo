@@ -3,8 +3,11 @@
 
 <p>
 Hello! Thank you for visiting my git!  
+
 I'm beginner developer Zivallo(Soowan Cho).  
+
 I am interested in the embedded system.  
+
 </p>
 
 <h2>Techs stack</h2>  
@@ -29,8 +32,3 @@ I am interested in the embedded system.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZivallo&count_bg=%2345DABF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)  
 
 </div>
-
-<!---
-Zivallo/Zivallo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
