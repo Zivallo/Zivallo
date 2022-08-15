@@ -2,7 +2,7 @@
 ## 안녕하세요! 조수완입니다. 
 <div align="center">  
 
-<h2>🛠 Techs stack</h2>  
+<h2>Techs stack</h2>  
 
 <h4>Tech that I've used at least once</h4>  
 
@@ -18,8 +18,7 @@
 
 <h2>Github Stats</h2>  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zivallo&show_icons=true&theme=tokyonight)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zivallo&layout=compact&theme=tokyonight)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zivallo&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zivallo&layout=compact&theme=tokyonight)  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZivallo&count_bg=%2345DABF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)  
 
