@@ -10,11 +10,15 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a><a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a><a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a></div>
 
 ## Problem Solving
-<div align="center">![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=edgeak)</div>
+<div align="center">
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=edgeak)
+</div>
 
 ## Github Stats
-<div align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zivallo&show_icons=true&theme=tokyonight)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zivallo&layout=compact&theme=tokyonight)</div>
+<div align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zivallo&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zivallo&layout=compact&theme=tokyonight)
+</div>
 
 <!---
 Zivallo/Zivallo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
