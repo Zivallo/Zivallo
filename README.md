@@ -1,10 +1,7 @@
 <div align="center">  
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=150&section=header&text=Hello%20visitors!&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlign=75&width=Auto)
-
-Thank you for visiting my git!<br>
-I'm beginner developer Zivallo (Soowan Cho).<br>
-I am interested in the embedded system.<br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=150&section=header&text=Hello%20visitors!&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlign=75&width=Auto)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZivallo&count_bg=%2345DABF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) 
 
 <h2>Techs stack</h2>  
 
@@ -22,9 +19,6 @@ I am interested in the embedded system.<br>
 
 <h2>Github Stats</h2>  
 
-![Zivallo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zivallo&show_icons=true&theme=tokyonight)![Zivallo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Zivallo&layout=compact&theme=tokyonight)
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZivallo&count_bg=%2345DABF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)  
+![Zivallo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Zivallo&layout=compact&theme=tokyonight) ![Zivallo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zivallo&show_icons=true&theme=tokyonight)
 
 </div>
